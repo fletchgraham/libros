@@ -20,7 +20,7 @@ Guillermo frunció el ceño.
 
 "¿Una biblioteca donde nadie puede leer los libros? Eso es extraño."
 
-[whispers] "No es extraño" ... respondió Ubertino, bajando la voz. "Es necesario. Hay libros peligrosos ahí dentro. Libros que contienen ideas que podrían destruir la fe de los hombres."
+Ubertino bajó la voz. [whispers] "No es extraño. Es necesario. Hay libros peligrosos ahí dentro. Libros que contienen ideas que podrían destruir la fe de los hombres."
 
 Caminamos por el claustro. Era un espacio cuadrado rodeado de columnas de piedra. En el centro había un pozo. El agua estaba quieta y oscura, como un espejo negro. Algunos monjes caminaban en silencio, leyendo o rezando.
 
@@ -56,7 +56,7 @@ El monje levantó la vista. Era pálido y tenía ojeras oscuras, como si no hubi
 
 Un silencio incómodo llenó el espacio.
 
-[whispers] "¿Eran amigos?" ... preguntó Guillermo suavemente.
+Guillermo preguntó suavemente. [whispers] "¿Eran amigos?"
 
 El monje joven tragó saliva. "Sí. Adelmo era mi amigo." Sus ojos se llenaron de lágrimas, pero no lloró. "No entiendo por qué murió. No tenía razones para... para hacer eso."
 
@@ -80,4 +80,10 @@ Guillermo pensaba lo mismo. Lo vi en sus ojos.
 
 "Pero el abad dijo que está prohibido."
 
-[quietly] Mi maestro sonrió. "Las prohibiciones, querido Adso, son solo puertas cerradas. Y todas las puertas cerradas tienen una llave."
+Mi maestro sonrió.
+
+[quietly] "Las prohibiciones, querido Adso... son solo puertas cerradas."
+
+"Y todas las puertas cerradas... tienen una llave."
+
+...

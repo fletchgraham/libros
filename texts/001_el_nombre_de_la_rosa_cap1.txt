@@ -38,7 +38,7 @@ Cuando por fin llegamos a la puerta principal de la abadía, un monje nos estaba
 
 "Bienvenidos" ... dijo el monje, haciendo una reverencia. "Soy el hermano Remigio, el cillerero. El abad los espera con mucha urgencia."
 
-[whispers] "¿Con urgencia?" ... me pregunté en silencio. ¿Por qué urgencia?
+Me pregunté en silencio... [whispers] "¿Con urgencia? ¿Por qué urgencia?"
 
 Guillermo bajó de su caballo y observó al monje con atención. Sus ojos se movían rápidamente, estudiando cada detalle.
 
@@ -50,7 +50,7 @@ El monje abrió los ojos muy grandes, sorprendido.
 
 Guillermo sonrió levemente.
 
-[quietly] "Los ojos ven, la mente conecta" ... dijo simplemente.
+Dijo simplemente... [quietly] "Los ojos ven, la mente conecta."
 
 Yo también estaba sorprendido. Guillermo no había hablado con nadie desde que salimos esa mañana. ¿Cómo podía saber que la abadía había perdido un caballo?
 
@@ -66,7 +66,7 @@ El hermano Remigio nos guió hasta una sala grande donde nos esperaba el abad...
 
 "Lo escucho" ... respondió mi maestro, sentándose frente a él.
 
-[whispers] "Ha habido una muerte" ... dijo el abad, bajando la voz. "Un monje joven, Adelmo... lo encontraron muerto esta mañana, al pie del edificio más alto de la abadía."
+El abad bajó la voz. [whispers] "Ha habido una muerte. Un monje joven, Adelmo... lo encontraron muerto esta mañana, al pie del edificio más alto de la abadía."
 
 Un silencio pesado llenó la sala.
 
@@ -76,6 +76,10 @@ Un silencio pesado llenó la sala.
 
 [sighs] En ese momento, mirando los ojos preocupados del abad y las sombras que se movían en las paredes, entendí que nuestra visita no iba a ser tranquila.
 
-No sabía todavía cuánta razón tenía.
+[quietly] No sabía todavía... cuánta razón tenía.
 
-Algo terrible se escondía entre los muros de esa abadía. Y nosotros... acabábamos de entrar.
+Algo terrible se escondía entre los muros de esa abadía...
+
+Y nosotros... acabábamos de entrar.
+
+...

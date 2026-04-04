@@ -34,7 +34,7 @@ Conté los pisos. Había ventanas en cada nivel, pero las del piso más alto, do
 
 "O no cayó solo. Vamos a hablar con el herborista."
 
-El herborista era Severino, un hombre tranquilo de unos cuarenta años que vivía entre plantas y medicinas. Su taller olía a hierbas, a miel y a cosas que no pude identificar. Había frascos por todas partes, llenos de líquidos de diferentes colores.
+El herborista era Severino, un hombre tranquilo que vivía entre plantas y medicinas. Su taller olía a hierbas, a miel y a cosas que no pude identificar. Había frascos por todas partes, llenos de líquidos de colores.
 
 "Yo examiné el cuerpo" ... dijo Severino, limpiándose las manos con un trapo. "El pobre Adelmo tenía muchos huesos rotos. Es normal en una caída desde esa altura."
 
@@ -42,7 +42,7 @@ El herborista era Severino, un hombre tranquilo de unos cuarenta años que viví
 
 Severino dudó un momento.
 
-[whispers] "Sus dedos" ... dijo finalmente. "Las puntas de sus dedos estaban negras. Como si hubiera tocado algo... una sustancia oscura."
+Dijo finalmente... [whispers] "Sus dedos. Las puntas de sus dedos estaban negras. Como si hubiera tocado algo... una sustancia oscura."
 
 "¿Tinta?"
 
@@ -90,6 +90,10 @@ El anciano Jorge de Burgos, un monje ciego con una voz profunda y autoritaria, n
 
 Guillermo sonrió en la oscuridad.
 
-"Mañana por la noche, querido Adso. Mañana por la noche vamos a entrar."
+[quietly] "Mañana por la noche, querido Adso... Mañana por la noche... vamos a entrar."
 
-Sentí un escalofrío. No supe si era por el frío... o por el miedo.
+Sentí un escalofrío...
+
+No supe si era por el frío... o por el miedo.
+
+...
