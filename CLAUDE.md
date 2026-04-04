@@ -39,6 +39,7 @@ Adapted from Umberto Eco's *The Name of the Rose*. A murder mystery in a medieva
 - Follows the book's 7-day structure, ~10 chapters per day, ~5 min each.
 - Each day follows the canonical hours (Matins, Lauds, Prime, Terce, Sext, None, Vespers, Compline).
 - Day 1 (chapters 001–010) is complete. Key characters introduced: Adso, Guillermo, Abad Abbone, Malaquías, Berengario, Jorge de Burgos, Severino, Salvatore, Benno. Central mystery: Adelmo's death, the forbidden library, a poisoned book about laughter.
+- Day 2 (chapters 011–020) is complete. The library labyrinth and Finis Africae. Second death: Venantius. Aristotle's lost book on comedy revealed as the forbidden text. Jorge's sermon against laughter. Political subplot: Franciscan poverty debate.
 
 ## Notes
 
