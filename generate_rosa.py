@@ -122,24 +122,16 @@ def generate_file(text_path, dropbox_name):
 
 
 def main():
-    # Find all chapter and glossary files, sorted
-    chapter_files = sorted(glob.glob("texts/[0-9]*_el_nombre_de_la_rosa_cap[0-9]*.txt"))
-    chapter_files = [f for f in chapter_files if "glosario" not in f]
+    # With naming like 001_cap1, 001g_cap1_glosario, 002_cap2, etc.,
+    # a simple sorted glob gives the right order: chapter then glossary.
+    all_files = sorted(glob.glob("texts/[0-9]*_el_nombre_de_la_rosa_*.txt"))
 
-    glossary_files = sorted(glob.glob("texts/[0-9]*_el_nombre_de_la_rosa_cap[0-9]*_glosario.txt"))
+    print(f"Found {len(all_files)} file(s)")
 
-    print(f"Found {len(chapter_files)} chapter(s) and {len(glossary_files)} glossary/ies")
-
-    for chapter_path in chapter_files:
-        # Extract chapter number from filename, e.g. "001" -> "cap1"
-        basename = os.path.basename(chapter_path).replace(".txt", "")
+    for text_path in all_files:
+        basename = os.path.basename(text_path).replace(".txt", "")
         dropbox_name = f"/libros/{basename}.mp3"
-        generate_file(chapter_path, dropbox_name)
-
-    for glossary_path in glossary_files:
-        basename = os.path.basename(glossary_path).replace(".txt", "")
-        dropbox_name = f"/libros/{basename}.mp3"
-        generate_file(glossary_path, dropbox_name)
+        generate_file(text_path, dropbox_name)
 
     print(f"\n{'='*60}")
     print("All done!")
