@@ -21,8 +21,9 @@ Using **Jacobo Montoro** (`syjZiIvIUSwKREBfMpKZ`) — warm male Andalusian Spani
 
 ## Writing Conventions
 
-- Target ~8 hours total audiobook length. Don't simplify too heavily — the goal is to inhabit the setting. Include rich sensory detail of daily monastic life: food, smells, weather, architecture, the rhythm of the canonical hours.
-- Structure follows the 7-day structure of the book, ~10 chapters per day, ~5 min each. Each day follows the canonical hours (Matins, Lauds, Prime, Terce, Sext, None, Vespers, Compline).
+- **Target ~8 hours per book.** These are meant to reduce friction of finding something new to listen to — long enough to live in the setting.
+- **Don't simplify too heavily.** Include rich sensory detail: food, smells, weather, architecture, daily routines. The listener should feel like they inhabit the world, not just follow the plot.
+- **A2-B1 Spanish level:** short sentences, controlled vocabulary, but rich description. Complexity comes from detail, not grammar.
 - Each chapter opens with `Capítulo uno... [Title].` followed by a `...` pause.
 - Each chapter ends with a `[quietly]` tag on the final lines, extra ellipses for slower delivery, and a trailing `...` for a few seconds of silence.
 - Glossaries give ~10 key words per chapter with concise Spanish-only definitions — no English translations.
@@ -30,6 +31,14 @@ Using **Jacobo Montoro** (`syjZiIvIUSwKREBfMpKZ`) — warm male Andalusian Spani
   - **Wrong:** `[whispers] "Ha habido una muerte" ... dijo el abad`
   - **Right:** `El abad bajó la voz. [whispers] "Ha habido una muerte."`
   - This prevents the narrator voice from whispering "dijo el abad" along with the dialogue.
+
+## El Nombre de la Rosa
+
+Adapted from Umberto Eco's *The Name of the Rose*. A murder mystery in a medieval Italian monastery, 1327.
+
+- Follows the book's 7-day structure, ~10 chapters per day, ~5 min each.
+- Each day follows the canonical hours (Matins, Lauds, Prime, Terce, Sext, None, Vespers, Compline).
+- Day 1 (chapters 001–010) is complete. Key characters introduced: Adso, Guillermo, Abad Abbone, Malaquías, Berengario, Jorge de Burgos, Severino, Salvatore, Benno. Central mystery: Adelmo's death, the forbidden library, a poisoned book about laughter.
 
 ## Notes
 
