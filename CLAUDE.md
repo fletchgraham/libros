@@ -21,6 +21,8 @@ Using **Jacobo Montoro** (`syjZiIvIUSwKREBfMpKZ`) — warm male Andalusian Spani
 
 ## Writing Conventions
 
+- Target ~8 hours total audiobook length. Don't simplify too heavily — the goal is to inhabit the setting. Include rich sensory detail of daily monastic life: food, smells, weather, architecture, the rhythm of the canonical hours.
+- Structure follows the 7-day structure of the book, ~10 chapters per day, ~5 min each. Each day follows the canonical hours (Matins, Lauds, Prime, Terce, Sext, None, Vespers, Compline).
 - Each chapter opens with `Capítulo uno... [Title].` followed by a `...` pause.
 - Each chapter ends with a `[quietly]` tag on the final lines, extra ellipses for slower delivery, and a trailing `...` for a few seconds of silence.
 - Glossaries give ~10 key words per chapter with concise Spanish-only definitions — no English translations.
