@@ -10,7 +10,7 @@ ELEVEN_API_KEY = os.environ["ELEVEN_API_KEY"].strip().strip('""\u201c\u201d')
 DROPBOX_TOKEN = os.environ["DROPBOX_TOKEN"]
 
 # Read the text
-with open("texts/el_nombre_de_la_rosa_cap1.txt") as f:
+with open("texts/001_el_nombre_de_la_rosa_cap1.txt") as f:
     text = f.read()
 
 print(f"Text length: {len(text)} characters")
