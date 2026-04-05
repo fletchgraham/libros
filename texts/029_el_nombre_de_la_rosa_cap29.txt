@@ -1,0 +1,49 @@
+Capítulo veintinueve... El Mapa.
+
+...
+
+Cuando volví a la celda, encontré a Guillermo en el suelo. No estaba herido... estaba trabajando. Había extendido un pergamino grande sobre las piedras y dibujaba con un trozo de carbón.
+
+"¿Qué hace, maestro?"
+
+"Un mapa" ... respondió sin levantar la vista. "De la biblioteca."
+
+[curious] Me arrodillé a su lado. El pergamino mostraba un dibujo complicado de habitaciones y pasillos. Algunas habitaciones tenían letras dentro.
+
+"Estoy reconstruyendo el laberinto de memoria" ... explicó Guillermo. "Recuerdo las marcas de carbón que hice, y las letras sobre las puertas. Si puedo completar el mapa, podré encontrar Finis Africae sin perderme."
+
+"Pero sin sus lentes..."
+
+"Nicolás me dijo que encontró un trozo de vidrio en el almacén. No es perfecto, pero puede servir. Mañana tendré los lentes reparados."
+
+[sighs] Sentí una ola de alivio. Guillermo, medio ciego, era como un águila sin alas. Necesitaba ver para pensar.
+
+Mi maestro seguía dibujando. Las habitaciones se conectaban en un patrón que, poco a poco, empezaba a tener sentido.
+
+"Mira" ... dijo, señalando una sección del mapa. "Las habitaciones exteriores tienen ventanas. Las interiores no. Eso significa que el laberinto tiene patios centrales vacíos. Cuatro patios, creo. Y las habitaciones se organizan alrededor de ellos."
+
+"Las letras forman nombres de regiones" ... recordé. "Hibernia, Aegyptus..."
+
+"Sí. Y cada torre del Edificio contiene una sección diferente. La torre norte tiene los textos de las Islas Británicas. La torre sur, los de África y Arabia. La torre este, Grecia y el mundo oriental. La torre oeste, España y Francia."
+
+[curious] "¿Y Finis Africae?"
+
+Guillermo señaló un punto en el mapa. "Aquí. Al final de la sección africana. Pero hay algo extraño. Según mi mapa, Finis Africae debería tener una puerta... pero cuando estuvimos ahí, no encontré ninguna puerta normal. Solo una pared lisa."
+
+"Una pared lisa con un mecanismo oculto."
+
+"Exacto. 'La mano sobre el ídolo opera sobre el primero y el séptimo de los cuatro.' La pared debe tener algún tipo de decoración... un ídolo, una figura tallada... y el mecanismo para abrir está escondido en ella."
+
+Le conté a Guillermo lo que Salvatore me había dicho sobre Remigio. Los fraticelli, la puerta secreta, la muchacha del pueblo. Guillermo escuchó en silencio.
+
+"Remigio no es nuestro asesino" ... dijo finalmente. "Es un hombre desesperado, sí. Pero sus secretos son del cuerpo, no de la mente. Nuestro asesino es un intelectual, Adso. Alguien que mata por ideas."
+
+[quietly] "¿Jorge?"
+
+"Jorge es el sospechoso más obvio. Odia la risa. Odia el libro de Aristóteles. Tiene la autoridad para mover a otros monjes como piezas de ajedrez." Guillermo hizo una pausa. "Pero es ciego. ¿Cómo podría un hombre ciego envenenar un libro? ¿Cómo podría golpear a Severino en la cabeza?"
+
+"Podría tener un cómplice."
+
+"Podría. Malaquías, quizás. El bibliotecario obedece a Jorge en muchas cosas." Guillermo enrolló el mapa con cuidado. "Mañana. Con los lentes reparados, volveremos a la biblioteca. Y esta vez... encontraremos Finis Africae."
+
+...
